@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large data file — download from INSEE (see README)
+Names hints/dpt2020.csv
+
+# Altair auto-generated data caches
+altair-data-*.json
+Week_2/altair-data-*.json
+
+# macOS artifacts
+__MACOSX/
+.DS_Store
