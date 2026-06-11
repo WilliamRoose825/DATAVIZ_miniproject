@@ -16,6 +16,12 @@ Names hints/dpt2020.csv
 altair-data-*.json
 Week_2/altair-data-*.json
 
+# Submission notes (local only)
+Week_2/Commentaires.txt
+
+# Design sketches
+Week_2/Output_examples/
+
 # macOS artifacts
 __MACOSX/
 .DS_Store
