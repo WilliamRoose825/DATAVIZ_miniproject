@@ -58,7 +58,7 @@ Names hints/
   dpt2020.csv                              ← download separately (see above)
   departements-avec-outre-mer.geojson      ← included from the reference folder 'Names hints'
   departements-version-simplifiee.geojson  ← included from the reference folder 'Names hints'
-Week_2/
+Work/
   Screenshots/                             ← folder including interesting cases to investigate (cf forum)
     Screenshot_A
     Screenshot_B
@@ -70,6 +70,7 @@ Week_2/
     Screenshot_H
     Screenshot_I
   Designs.ipynb                            ← main notebook (3 visualisations)
+  Designs_vlast.ipynb                      ← final main notebook (3 visualisations)
 pyproject.toml                             ← Python dependencies
 ```
 
