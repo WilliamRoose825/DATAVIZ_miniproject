@@ -18,7 +18,7 @@ Visualization 3:
 - Are there gender effects in the data?
 - Does popularity of names given to both sexes evolve consistently? (Note: this data set treats sex as binary; this is a simplification that carries into this assignment but does not generally hold.)
 
-In this Github project we exhibit the code used during the Week 2. Our notebook Designs.ipynb gathers three interactive designs, each responding to a visualization need. It was built with Altair, a python library used during lab class and rely upon some tools from the 'Names hints' reference folder.
+In this Github project we exhibit the code used during the Week 2. Our notebook Designs.ipynb gathers three interactive designs, each responding to a visualization need. It was built with Altair, a python library used during lab class and rely upon some tools from the 'Names hints' reference folder. We also present our notebook Designs_vlast.ipyng, built right after checking the other groups feedbacks and stepping back on the topic.
 
 
 ## Setup
@@ -69,7 +69,7 @@ Work/
     Screenshot_G
     Screenshot_H
     Screenshot_I
-  Designs.ipynb                            ← main notebook (3 visualisations)
+  Designs.ipynb                            ← initial main notebook (3 visualisations)
   Designs_vlast.ipynb                      ← final main notebook (3 visualisations)
 pyproject.toml                             ← Python dependencies
 ```
