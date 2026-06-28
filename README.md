@@ -70,7 +70,7 @@ Work/
     Screenshot_H
     Screenshot_I
   Designs.ipynb                            ← initial main notebook (3 visualisations)
-  Designs_vlast.ipynb                      ← final main notebook (3 visualisations)
+  Designs_final.ipynb                      ← final main notebook (3 visualisations)
 pyproject.toml                             ← Python dependencies
 ```
 
